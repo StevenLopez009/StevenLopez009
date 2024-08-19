@@ -2,4 +2,4 @@
   <h1>Hola soy Steven</h1>
 </div>
 
-<img src="https://drive.google.com/file/d/1nmKGj0iV_Zk7Xu6psJllFj_-r-rNiGMw/view?usp=sharing" alt="Descripción de la imagen">
+<img src="https://res.cloudinary.com/dgwr512qr/image/upload/v1724096341/kg2fclhsaltzlxl9mma5.png" alt="Descripción de la imagen">
