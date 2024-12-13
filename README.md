@@ -14,9 +14,8 @@
 | CSS          |           |              |              |
 | HTML         |           |              |              |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevenlopez009&show_icons=true&locale=en&layout=compact&theme=dark" alt="stevenlopez009" /></p>
-<p><img align="right" src="https://res.cloudinary.com/dgwr512qr/image/upload/v1734058481/yuv5zyjlv7xilucm7eks.gif" alt="Mi GIF animado" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=stevenlopez009&show_icons=true&locale=en&theme=dark" alt="stevenlopez009" /></p>
+<p><img style="width: 200px; height: auto;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevenlopez009&show_icons=true&locale=en&layout=compact&theme=dark" alt="stevenlopez009" /></p>
+<p>&nbsp;<img style="width: 200px; height: auto;" align="center" src="https://github-readme-stats.vercel.app/api/?username=stevenlopez009&show_icons=true&locale=en&theme=dark" alt="stevenlopez009" /></p>
 
 
 
