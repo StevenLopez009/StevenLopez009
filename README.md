@@ -14,8 +14,8 @@
 | CSS          |           |              |              |
 | HTML         |           |              |              |
 
-<p><img style="width: 400px; height: auto;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevenlopez009&show_icons=true&locale=en&layout=compact&theme=dark" alt="stevenlopez009" /></p>
-<p>&nbsp;<img style="width: 400px; height: auto;" align="center" src="https://github-readme-stats.vercel.app/api/?username=stevenlopez009&show_icons=true&locale=en&theme=dark" alt="stevenlopez009" /></p>
+<p><img style="width: 400px; height: 350px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevenlopez009&show_icons=true&locale=en&layout=compact&theme=dark" alt="stevenlopez009" /></p>
+<p>&nbsp;<img style="width: 400px; height: 350px;" align="center" src="https://github-readme-stats.vercel.app/api/?username=stevenlopez009&show_icons=true&locale=en&theme=dark" alt="stevenlopez009" /></p>
 
 
 
