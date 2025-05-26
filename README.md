@@ -5,11 +5,11 @@
 
 ## Lenguajes y Tecnologías
 
-| Front-end    | Backend   | DB           | Diseño        |
+| Front-end    | Backend   | DB           | Testing        |
 |--------------|-----------|--------------|--------------|
-| JavaScript   | NodeJS    | Mysql          | Illustrator  |
-| ReactJS      | Express   | SQL          | Adobe Xd     |
-| Sass         |           | MongoDB      | Figma        |
+| JavaScript   | NodeJS    | Mysql          | Cypress  |
+| ReactJS      | Express   | SQL          |      |
+| Sass         |           | MongoDB      |        |
 | TypeScript   |           |              |              |
 | CSS          |           |              |              |
 | HTML         |           |              |              |
