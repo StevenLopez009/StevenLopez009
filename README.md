@@ -8,8 +8,8 @@
 | Front-end    | Backend   | DB           | Testing        |
 |--------------|-----------|--------------|--------------|
 | JavaScript   | NodeJS    | Mysql          | Cypress  |
-| ReactJS      | Express   |              |      |
-| Sass         |           | MongoDB      |        |
+| ReactJS      | Express   |MongoDB         |      |
+| Sass         |           |               |        |
 | TypeScript   |           |              |              |
 | CSS          |           |              |              |
 | HTML         |           |              |              |
