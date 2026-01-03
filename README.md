@@ -9,7 +9,7 @@
 |--------------|-----------|--------------|--------------|
 | JavaScript   | NodeJS    | Mysql          | Cypress  |
 | ReactJS      | Express   |MongoDB         |      |
-| Sass         |           |               |        |
+| Angular         |           |               |        |
 | TypeScript   |           |              |              |
 | CSS          |           |              |              |
 | HTML         |           |              |              |
