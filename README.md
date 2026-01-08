@@ -11,8 +11,7 @@
 | ReactJS      | Express   |MongoDB         |      |
 | Angular         |           |               |        |
 | TypeScript   |           |              |              |
-| CSS          |           |              |              |
-| HTML         |           |              |              |
+
 
 
 
