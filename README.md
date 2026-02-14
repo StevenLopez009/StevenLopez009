@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;2%2B+años+de+experiencia;React+%7C+TypeScript+%7C+GraphQL;Siempre+aprendiendo%2C+siempre+construyendo)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Frontend+Developer;2%2B+años+de+experiencia;React+%7C+TypeScript+%7C+GraphQL;Siempre+aprendiendo;Siempre+construyendo)
 
 </div>
 
@@ -41,18 +41,6 @@ Frontend Developer con **2 años de experiencia** construyendo aplicaciones web 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lpz-steven&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpz-steven&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lpz-steven&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## 💼 Proyectos Destacados
 
