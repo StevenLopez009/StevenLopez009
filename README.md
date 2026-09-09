@@ -49,8 +49,8 @@ Frontend Developer con **2 años de experiencia** construyendo aplicaciones web 
 
 **Stack:** React.js, TypeScript, Three.js
 
-### 🛒 Tienda Stack M.E.R.N
-**E-commerce completo con stack MERN**
+### 🛒 
+**E-commerce completo con Next**
 - Aplicación full-stack con autenticación y gestión de usuarios
 - Sistema de carrito de compras y favoritos
 - Panel de administración para gestión de productos
